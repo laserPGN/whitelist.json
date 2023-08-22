@@ -1,0 +1,33 @@
+{
+  "WhitelistedUsers": {
+    "1135627608969707581": {
+      "hash": "A28620BD-2A00-45DF-841D-D1C3EF316CAB",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "Ape Main Developer",
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    
+    "1097188073785270292": {
+      "hash": "aab46f17-ea85-4763-91ca-6b057396bcba",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "APE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
+    },
